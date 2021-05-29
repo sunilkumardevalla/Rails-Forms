@@ -1,0 +1,14 @@
+<h1>Edit User</h1>
+<!-- <%= form_with model: @user, url: edit_user_path(@user), method: :patch do |form| %>
+  <br>
+  <%= form.label :username, "Edit Username:" %>
+  <%= form.text_field :username, :value => @user.username %><br>
+  <%= form.label :email, "Edit Email:" %>
+  <%= form.text_field :email, :value => @user.email %><br>
+  <%= form.label :password, "Edit Password:" %>
+  <%= form.password_field :password %><br>
+  <%= form.submit "Submit" %>
+<% end %>
+<br>
+<%= link_to "<< Back to Users List", root_path %><br/> -->
+<%= render 'form', user: @user %>
