@@ -2,7 +2,7 @@
 
 # Rails-Forms
 
-This project consists multiple ways to build a form in rails that can send parameters to a controller so that it can build an instance of a model with those parameters.
+This project consists of multiple ways to build a form in rails that can send parameters to a controller so that it can build an instance of a model with those parameters.
 
 ## Built With
 
@@ -17,12 +17,12 @@ This project consists multiple ways to build a form in rails that can send param
 
 * IRB or a Ruby parser installed in your OS terminal.
 * A compatible version of Rspec, as of the time of writing, the latest RSpec version is 3.10.0
-* A compatible version of Bundler in order to install and check the required gems for this project. As of the time of writing, the latest Bundler version is 2.2.10
-* A text editor is not required, but is highly recommended so that you may better preview and edit the code. Popular choices include Atom or VSCode.
+* A compatible version of Bundler to install and check the required gems for this project. As of the time of writing, the latest Bundler version is 2.2.10
+* A text editor is not required but is highly recommended so that you may better preview and edit the code. Popular choices include Atom or VSCode.
 
 ### Setup
 
-- Clone the repository in order to get a copy of this project
+- Clone the repository to get a copy of this project
 
 
 🧑‍💻 **Sunil Kumar**
@@ -39,7 +39,7 @@ Feel free to check the [issues page](https://github.com/sunilkumardevalla/Rails-
 
 ## Show your support
 
-Give a ⭐️ if you like this project!
+Give ⭐️ if you like this project!
 
 ## 📝 License
 
