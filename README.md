@@ -24,7 +24,6 @@ This project consists of multiple ways to build a form in rails that can send pa
 
 - Clone the repository to get a copy of this project
 
-
 🧑‍💻 **Sunil Kumar**
 
 - GitHub: [@DsunilK](https://github.com/sunilkumardevalla)
